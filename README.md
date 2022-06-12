@@ -5,3 +5,6 @@ The term 'loan' refer s to the amount borrowed by one person from another.the ba
 # OBJECTIVES -
 1) Which variable is more responsible for loan approval status.
 2) Which machine learning algorithm is good fit for this loan dataset
+
+# CONCLUSION - 
+Logistic regression model is good fit for this dataset with accuracy 80% and credit history is highly responsible variable for loan approval...
